@@ -2,8 +2,8 @@
 <h1 align="center">Hi there, I'm Jay 👋</h1>
 
 <p align="center"> 
- <a href="https://twitter.com/_Jafolayan" alt="Jay's twitter">
-   <img src="https://img.shields.io/badge/-@Jafolayan_-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ <a href="https://twitter.com/JayAfolayan" alt="Jay's twitter">
+   <img src="https://img.shields.io/badge/-@JayAfolayan-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/jafolayan1" alt="Jay's github">
    <img src="https://img.shields.io/badge/-@jafolayan1-%23181717?style=flat-square&logo=github" />
